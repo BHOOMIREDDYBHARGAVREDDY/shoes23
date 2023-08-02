@@ -43,4 +43,4 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScript
