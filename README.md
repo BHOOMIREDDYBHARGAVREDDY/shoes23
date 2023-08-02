@@ -5,10 +5,10 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 ### This web based shoe store application has been developed for the accomplishment of smartinternz Internship program launched by APSCHE
 
 
-**Project Link** - https://calm-tree-062749e00.3.azurestaticapps.net/
+**Project Link** - https://calm-tree-062749e00.3.azurestaticapps.net/blog.html
 
 
-**Demo Video** -  https://www.youtube.com/watch?v=2M51AJhtTB0
+**Demo Video** -  
 
 ## Features and Functionalities 😃
 
@@ -22,17 +22,18 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 ## Screenshots 📸
 
 ### Menu page -
-![Screenshot (9)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/5c709b69-204d-4605-b918-d12d25bca141)
+![Screenshot (137)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/18b637b4-2537-49ee-9726-eb7ae44946b1)
 
 ### Contact page -
-![Screenshot (51)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/7eca7f79-86d9-41ff-87ff-c0030a6ebf86) 
+![Screenshot (141)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/fb14d104-0e7a-421b-aa34-bbdf0425a260)
+
 
 ### About Us Page -
-![Screenshot (52)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/f85f1ef8-6a4c-4f96-958b-e40c6d6b114e)
+![Screenshot (139)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/2302b02b-24fe-4395-837b-cf6cf096c91c)
+![Screenshot (142)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/4e5b1745-71fd-49af-af2c-108c72737d9c)
+![Screenshot (138)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/4c0a55bd-8377-42bb-8188-b4d035c5b8cf)
+![Screenshot (140)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/b2d09f89-06d0-4f9d-9e77-13eb8f401fe5)
 
-![Screenshot (136)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/24e3be89-cedd-4d01-81a4-666329630db7)
-
-![Screenshot (135)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/a6b4d757-12b5-4c67-8d47-7b06c22c360a)
 
 
 
