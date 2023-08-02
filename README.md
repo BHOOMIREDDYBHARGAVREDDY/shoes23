@@ -8,7 +8,7 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 **Project Link** - https://calm-tree-062749e00.3.azurestaticapps.net/
 
 
-**Demo Video** -  
+**Demo Video** -  https://www.youtube.com/watch?v=2M51AJhtTB0
 
 ## Features and Functionalities 😃
 
