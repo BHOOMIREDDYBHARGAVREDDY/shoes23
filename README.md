@@ -29,7 +29,9 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 
 ### About Us Page -
 ![Screenshot (52)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/f85f1ef8-6a4c-4f96-958b-e40c6d6b114e)
-![Screenshot (52)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/6a54dd38-df5e-48d6-b533-9512017a8f01
+
+![Screenshot (136)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/24e3be89-cedd-4d01-81a4-666329630db7)
+
 ![Screenshot (135)](https://github.com/BHOOMIREDDYBHARGAVREDDY/shoes23/assets/111232373/a6b4d757-12b5-4c67-8d47-7b06c22c360a)
 
 
